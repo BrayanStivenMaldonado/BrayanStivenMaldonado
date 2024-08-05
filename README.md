@@ -1,5 +1,5 @@
 ## Hi there i'm Stiven 👋
-Mi nombre es Brayan Stiven Maldonado Ortega, tengo 17 años y vivo en Tibú - Norte de Santander, Colombia, en este momento estoy estudiando en *Campuslands*.
+Mi nombre es Brayan Stiven Maldonado Ortega, tengo 17 años y vivo en Tibú - Norte de Santander, Colombia. En este momento estoy estudiando en *Campuslands*.
 
 ## Contacto📱
 
