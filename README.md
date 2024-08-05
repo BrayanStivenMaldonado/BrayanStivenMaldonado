@@ -21,4 +21,4 @@ Mi nombre es Brayan Stiven Maldonado Ortega, tengo 17 años y vivo en Tibú - No
 [**Kario Media**:](https://github.com/BrayanStivenMaldonado/PROYECTO-FILTRO_MALDONADOBRAYAN_ORTEGAFREILER) Simulación de la página web de una empresa en la que se tienen apartados de: Añadir, Eliminar, Reportar y Ayuda. Este proyecto es responsive y fue desarrollado solo con ***HTML*** y ***CSS***.
 
 ## Estadisticas
-![BrayanStivenMaldonado's Stats](https://github-readme-stats.vercel.app/api?username=BrayanStivenMaldonado&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![BrayanStivenMaldonado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![BrayanStivenMaldonado's Stats](https://github-readme-stats.vercel.app/api?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&count_private=true) ![BrayanStivenMaldonado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&layout=compact)
