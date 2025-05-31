@@ -61,7 +61,7 @@ API REST para gestionar el alquiler, devolución, pagos y reportes de herramient
 
 ### 🌳 Finca de Producción Frutal  
 Sistema de base de datos relacional para la gestión operativa de una finca agrícola. Administra cultivos, terrenos, maquinaria, insumos, cosechas, ventas, empleados y más. Implementa funciones avanzadas como procedimientos almacenados, triggers, eventos programados y roles personalizados.  
-Tecnologías: MySQL  
+**Tecnologías**: MySQL  
 🔗 [Ver documentación](https://forest-thorn-c36.notion.site/Finca-de-producci-n-frutal-f1cd1c4d00aa4e52a2ba5b7f2c64ffd3?pvs=4)
 
 ## 📊 Estadísticas de GitHub
