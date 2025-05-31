@@ -1,35 +1,57 @@
-## Hola, Soy Stiven Maldonado 👋👋
-Un programador junior apasionado por todo lo que tiene que ver con la tecnología y el desarrollo web. Cuento con experiencia en HTML, CSS y JavaScript, lo cual me permite crear interfaces atractivas y funcionales para los usuarios.
+## 👋 Hola, soy Stiven Maldonado
 
+Soy un desarrollador junior con una gran pasión por el mundo de la tecnología y la creación de soluciones web. Me especializo en la construcción de interfaces dinámicas y en la gestión de datos para aplicaciones escalables. Disfruto resolviendo problemas técnicos, aprendiendo nuevas herramientas y trabajando en equipo para alcanzar objetivos comunes.
 
-Tengo conocimientos en sistemas de gestión de bases de datos, como MySQL y PostgreSQL, lo que me permite diseñar y gestionar bases de datos eficaces para respaldar proyectos dinámicos y escalables.
-Me gusta estar aprendiendo continuamente y perfeccionando mis habilidades, enfocado en poder crear soluciones innovadoras a los desafios que se presenten.
+Me considero una persona proactiva, enfocada en el aprendizaje continuo, y siempre estoy en busca de proyectos que me reten y me permitan seguir creciendo como profesional en el área del desarrollo de software.
 
-Me interesa colaborar en proyectos desafiantes, trabajar en equipo y seguir avanzando en mi carrera como desarrollador de software
+---
 
-## Contacto📱
-<a href="https://www.instagram.com/stivznbm_/?igsh=MXdsMGE4Yzdtb2RuOQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stivzn_" height="30" width="40" /></a>
+## 📫 Contacto
+
+<a href="https://stivenmaldonado.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio Badge" />
+</a>
+<a href="https://www.linkedin.com/in/stiven-maldonado-465711338/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="https://www.instagram.com/stivzn_/" target="_blank">
+  <img src="https://img.shields.io/badge/@stivzn_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
+
+---
+
+## 🧠 Habilidades Técnicas
+
+| 🖥️ Frontend | ⚙️ Backend | 🗄️ Bases de Datos | 🧰 Herramientas |
+|-------------|------------|-------------------|----------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) <br> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) <br> ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-000000?style=for-the-badge&logo=responsive-design&logoColor=white) |
+
+---
+
+## 💡 Proyectos Destacados
+
+### 🎓 Plataforma Estudiantil  
+Plataforma educativa basada en consola, permite registrar estudiantes, materias y generar reportes académicos.  
+**Tecnologías**: Python, estructuras de datos, lectura/escritura de archivos.  
+🔗 [Ver en GitHub](https://github.com/BrayanStivenMaldonado/Proyecto_Python_MaldonadoBrayanLizarazoMaria)
+
+---
+
+### 🖥️ Kario Media  
+Simulación de un sitio web corporativo con diseño responsive. Incluye apartados como añadir, eliminar y reporte de datos.  
+**Tecnologías**: HTML, CSS (maquetación avanzada y diseño adaptable).  
+🔗 [Ver en GitHub](https://github.com/BrayanStivenMaldonado/PROYECTO-FILTRO_MALDONADOBRAYAN_ORTEGAFREILER)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![BrayanStivenMaldonado's Stats](https://github-readme-stats.vercel.app/api?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&layout=compact)
+
+---
+
 <p align="center">
-   <img src="https://i.gifer.com/8ChL.gif" alt="" />
-</p> 
+  <img src="https://i.gifer.com/8ChL.gif" alt="coding" />
+</p>
 
-## Lenguajes
-
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-
-## Proyectos Destacados
-
-[**Plataforma estudiantil**:](https://github.com/BrayanStivenMaldonado/Proyecto_Python_MaldonadoBrayanLizarazoMaria) Es la plataforma estudiantil de una institución, este proyecto está desarrollado con Python.
-
-[**Kario Media**:](https://github.com/BrayanStivenMaldonado/PROYECTO-FILTRO_MALDONADOBRAYAN_ORTEGAFREILER) Simulación de la página web de una empresa en la que se tienen apartados de: Añadir, Eliminar, Reportar y Ayuda. Este proyecto es responsive y fue desarrollado solo con ***HTML*** y ***CSS***.
-
-## Estadisticas
-![BrayanStivenMaldonado's Stats](https://github-readme-stats.vercel.app/api?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&count_private=true) ![BrayanStivenMaldonado's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanStivenMaldonado&theme=nord&show_icons=true&hide_border=true&layout=compact)
