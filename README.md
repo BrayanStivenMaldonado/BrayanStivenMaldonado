@@ -1,4 +1,4 @@
-# 👨‍💻 Stiven Maldonado - Desarrollador Web Junior
+# 👨‍💻 Stiven Maldonado - Desarrollador FullStack Junior
 
 Soy un desarrollador junior con una gran pasión por el mundo de la tecnología y la creación de soluciones web. Me especializo en la construcción de interfaces dinámicas y en la gestión de datos para aplicaciones escalables. Disfruto resolviendo problemas técnicos, aprendiendo nuevas herramientas y trabajando en equipo para alcanzar objetivos comunes.
 
@@ -45,10 +45,17 @@ Simulación de un sitio web corporativo con diseño responsive. Incluye apartado
 
 ---
 
+### 🐾 Veterinaria JB
+Sistema de gestión para una clínica veterinaria. Permite administrar mascotas, historial médico, vacunas, agenda de consultas, inventario y facturación. Incluye login con roles: administrador, recepcionista, veterinario y cliente.   
+**Tecnologías**: Java, MySQL     
+🔗 [Ver en GitHub](https://github.com/JaimeBarreraS/ProyectoJava_BarreraJaime_MaldonadoBrayan)
+
+---
+
 ### 🔧 Sistema de Alquiler de Herramientas  
 API REST para gestionar el alquiler, devolución, pagos y reportes de herramientas de trabajo. Incluye autenticación JWT, roles, y protección de rutas.  
 **Tecnologías**: Java, Spring Boot, Spring Security, MySQL, JWT  
-🔗 [Ver en GitHub](https://github.com/BrayanStivenMaldonado/SistemaAlquilerHerramientas)
+🔗 [Ver en GitHub](https://github.com/BrayanStivenMaldonado/Proyecto_RentaHerramientas_MaldonadoBrayan_OrtegaFreiler_GuerreroMiguel)
 
 ---
 
